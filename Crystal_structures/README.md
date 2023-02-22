@@ -1,0 +1,1 @@
+This folder contains the crystal structures used in the study. They are in the Vasp POSCAR format. All structures contain an iodine interstitial unless specified as "pristine". The naming convention is `POSCAR_[MA:Cs ratio]_[charge].vasp`
