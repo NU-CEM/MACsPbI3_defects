@@ -27,8 +27,6 @@ To run this code you will need the following standard Julia packages installed: 
 All of the Python packages make use of the standard scientific python stack: [scipy](https://scipy.org/), [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [matplotlib](https://matplotlib.org/).
 - `Ellipsoidal_analysis.ipynb` analyses the minimum bounding ellipsoids in the pristine structures (Table S2). Note that to re-generate the ellipsoid data from the structures you will need to use [pieface](https://github.com/jcumby/PIEFACE) which is written in Python 2. Alternatively, you can analyse the data already generated and pickled.
 - `Geometry_analysis.ipynb` uses [ase](https://wiki.fysik.dtu.dk/ase/) to analyse the bond angles and bond lengths in the pristine and defect structures (Table S2 and Table S3).
-- `Symmetry_mode_analysis.ipynb` contains the code for analysing the output of [isodistort](https://stokes.byu.edu/iso/isodistort.php) (Figures S3 to S5).
+- `Symmetry_mode_analysis.ipynb` contains the code for analysing the output of [isodistort](https://stokes.byu.edu/iso/isodistort.php) (Figure 3 and Figures S3 to S5).
 - `Figure_1.ipynb` contains the code for generating Figure 1.
 - `Figure_2.ipynb` contains the code for generating Figure 2.
-- `Figure_3.ipynb` contains the code for generating Figure 3a.
-
