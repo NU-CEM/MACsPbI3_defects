@@ -14,7 +14,6 @@ All of the code is distributed as [Jupyter Notebooks](https://jupyter.org/). If 
 - `./Symmetry_mode_analysis/` contains the symmetry mode analysis data generated using [isodistort](https://stokes.byu.edu/iso/isodistort.php) (Figure 3 and Figures S3-S5). The naming convention is `SMA_[MA:Cs ratio].txt`.
 - `./Ellipsoid_data/` contains data about the ellipsoids fitted to PbI6 octahedra, for each of the pristine structures (Table S2).
 - `./Figure_1/` contains the data required for plotting Figure 1
-- `./Figure_2/` contains the data required for plotting Figure 2
 
 ## Code - Julia 1.6.1
 
