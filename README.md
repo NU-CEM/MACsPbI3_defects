@@ -13,7 +13,7 @@ All of the code is distributed as [Jupyter Notebooks](https://jupyter.org/). If 
 
 ## Code - Julia 1.6.1
 
-To run this code you will need the following standard Julia packages installed: Plots, LaTeXStrings, DataFrames, Statistics, CSV. You will also need [CarrierCapture.jl](https://github.com/WMD-group/CarrierCapture.jl/). Note that I use Julia 1.6.1.
+To run this code you will need the following standard Julia packages installed: Plots (v1.13.2), LaTeXStrings (v1.2.1), DataFrames (v1.0.2), Statistics, CSV (v0.8.5). You will also need [CarrierCapture.jl](https://github.com/WMD-group/CarrierCapture.jl/) (v0.1.0, 05287f9a on master). Note that I use Julia 1.6.1.
 - `CarrierCapture_MAPbI.ipynb` is a Jupyter Notebook with the first-principles non-radiative carrier capture analysis for MAPbI (Figure 1).
 - `CarrierCapture_MACsPbI.ipynb` is a Jupyter Notebook with the first-principles non-radiative carrier capture analysis for MACsPbI (MA:Cs 14:2) (Figure 1).
 
