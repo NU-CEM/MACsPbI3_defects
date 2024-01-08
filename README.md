@@ -1,6 +1,6 @@
 # Data and analysis code for "Steric Engineering of Point Defects in Lead Halide Perovskites"
 
-- 📖 The paper is currently under review, but you can read the pre-print [here](https://arxiv.org/abs/2302.08412).
+📖 This paper is published with open access in J. Phys. Chem. C [here](https://doi.org/10.1021/acs.jpcc.3c03516). 
 
 All of the code is distributed as [Jupyter Notebooks](https://jupyter.org/). If you are looking for the code that implements the interpolation method used in the paper, please see [this repository](https://github.com/NU-CEM/Kabsch_interpolation). If you are looking for raw DFT input and output files for the total energy calculations used to predict defect properties, please see [this repository](https:dx.doi.org/10.17172/NOMAD/2023.02.27-2).
 
